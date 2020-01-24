@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("simplenote")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Simple Note")]
+[assembly: AssemblyDescription("Simple notepad - editor")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("*")]
-[assembly: AssemblyProduct("simplenote")]
-[assembly: AssemblyCopyright("Copyright © * 2020")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("SimpleNote")]
+[assembly: AssemblyCopyright("Copyright © Rustamov Oybek 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
